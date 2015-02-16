@@ -154,7 +154,6 @@
             <configuration>
               <systemPropertyVariables>
                 <arquillian.launch>arquillian-wildfly-remote</arquillian.launch>
-                <arquillian.javaVmArguments>-Djboss.socket.binding.port-offset=1</arquillian.javaVmArguments>
               </systemPropertyVariables>
             </configuration>
           </plugin>
